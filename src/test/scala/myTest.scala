@@ -1,0 +1,6 @@
+
+
+
+class myTest  extends  FlatSpec {
+
+}
